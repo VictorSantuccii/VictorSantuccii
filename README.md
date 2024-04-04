@@ -1,5 +1,13 @@
 ## Seja bem-vindo ao meu perfil ✨
 
+⌨ Desenvolvedor Full Stack em Desenvolvimento Web. <br>
+📚 Aprendendo Typescript, React Native e SQL. <br>
+💬 Me pergunte sobre HTML5, CSS3 e Javascript. <br>
+📩 Você pode me contactar no meu e-mail: victorsantuccii@gmail.com
+<br>
+
+## Minhas contribuições com o GitHub:
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=VictorSantuccii&theme=midnight-purple">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantuccii&theme=midnight-purple">
@@ -20,13 +28,14 @@
 <br>
 
 
- ## Tecnologias, Habilidades e Competências
+ ## Tecnologias, Habilidades e Competências 💻
 
 <div>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white">
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -47,6 +56,10 @@
  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+ <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+ <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+ 
  
 
  </div>
@@ -56,7 +69,9 @@
 <div> 
  
   <a href="https://instagram.com/victorsantuccii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-
   
 </div>
+
+
+
+
