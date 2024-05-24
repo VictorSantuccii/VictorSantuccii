@@ -1,6 +1,6 @@
 ## Seja bem-vindo ao meu perfil 
 
-⌨ Desenvolvedor Full Stack em Desenvolvimento Web. <br>
+⌨ Desenvolvedor Backend em Desenvolvimento Web. <br>
 📚 Aprendendo Typescript, React Native e SQL. <br>
 💬 Me pergunte sobre HTML5, CSS3 e Javascript. <br>
 📩 Você pode me contactar no meu e-mail: victorsantuccii@gmail.com
