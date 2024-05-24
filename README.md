@@ -1,4 +1,4 @@
-## Seja bem-vindo ao meu perfil ✨
+## Seja bem-vindo ao meu perfil 
 
 ⌨ Desenvolvedor Full Stack em Desenvolvimento Web. <br>
 📚 Aprendendo Typescript, React Native e SQL. <br>
