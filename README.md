@@ -1,6 +1,6 @@
-## Seja bem-vindo ao meu perfil 
+## 👀 Um pouco sobre mim...
 
-⌨ Desenvolvedor Backend em Desenvolvimento Web. <br>
+⌨ Desenvolvedor Back-end em Desenvolvimento Web. <br>
 📚 Aprendendo e desenvolvendo com NestJs, React Native e PostgresSQL. <br>
 💬 Me pergunte sobre HTML5, CSS3 e Javascript. <br>
 📩 Você pode me contactar no meu e-mail: victorsantuccii@gmail.com
