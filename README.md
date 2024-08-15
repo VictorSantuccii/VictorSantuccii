@@ -73,10 +73,13 @@
  
 <div align="left">
   <a href="https://www.instagram.com/victorsantuccii/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKHQcfQfZhPkfscCTkvDdqSGKrzzQVcnSKTgtxFhpQDmqMGbCzFGsPtGctbMLtRWmFmDxMg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />
+  </a>
+ <a href="https://www.linkedin.com/in/victorsantuccii/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  />
   </a>
 </div>
 
