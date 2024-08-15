@@ -1,5 +1,8 @@
-## Olá 👋
+
+ <h2 align="center"> Olá 👋 </h2>
  Meu nome é Víctor Santucci, atualmente estou cursando ADS ( Análise e Desenvolvimento de Sistemas ) no SENAI - SP 
+ <br>
+ 
 
 
  <h2 align="center"> 👀 Um pouco sobre mim... </h2>
@@ -10,18 +13,22 @@
 📩 Você pode me contactar no meu e-mail: victorsantuccii@gmail.com
 <br>
 
-## Minhas contribuições com o GitHub 📈
 
+ <h2 align="center"> Minhas contribuições com o GitHub 📈 </h2>
+
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=VictorSantuccii&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VictorSantuccii&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantuccii&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+ </div>
 
 
 <br>
 
  <h2 align="center"> Tecnologias, Habilidades e Competências 💻</h2>
 
-<div>
+<div align="center">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
