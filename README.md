@@ -9,8 +9,8 @@
 ## Minhas contribuições com o GitHub 📈
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorSantuccii&theme=react" style="border: 2px solid #00aaff;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantuccii&theme=react" style="border: 2px solid #00aaff;">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorSantuccii&theme=react" style="border: 0.5px solid #00aaff;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantuccii&theme=react" style="border: 0.5px solid #00aaff;">
 
 </div>
 
