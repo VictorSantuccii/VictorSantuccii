@@ -8,11 +8,10 @@
 
 ## Minhas contribuições com o GitHub 📈
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorSantuccii&theme=react" style="border: 0.5px solid #00aaff;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantuccii&theme=react" style="border: 0.5px solid #00aaff;">
-
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VictorSantuccii&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=VictorSantuccii&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantuccii&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
