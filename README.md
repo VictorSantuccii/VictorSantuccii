@@ -16,12 +16,11 @@
 
  <h2 align="center"> Minhas contribuições com o GitHub 📈 </h2>
 
-<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=VictorSantuccii&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VictorSantuccii&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantuccii&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
- </div>
 
 
 <br>
