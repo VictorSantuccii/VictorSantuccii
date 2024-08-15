@@ -8,9 +8,9 @@
 
 ## Minhas contribuições com o GitHub 📈
 
-![](https://github-readme-stats.vercel.app/api?username=VictorSantuccii&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=VictorSantuccii&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantuccii&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=VictorSantuccii&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=VictorSantuccii&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantuccii&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
