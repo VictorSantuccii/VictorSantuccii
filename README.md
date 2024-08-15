@@ -1,3 +1,6 @@
+## Olá 👋
+ Meu nome é Víctor Santucci, atualmente estou cursando ADS ( Análise e Desenvolvimento de Sistemas ) no SENAI - SP 
+
 ## 👀 Um pouco sobre mim...
 
 ⌨ Desenvolvedor Back-end em Desenvolvimento Web. <br>
