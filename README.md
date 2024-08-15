@@ -1,7 +1,8 @@
 ## Olá 👋
  Meu nome é Víctor Santucci, atualmente estou cursando ADS ( Análise e Desenvolvimento de Sistemas ) no SENAI - SP 
 
-## 👀 Um pouco sobre mim...
+
+ <h2 align="center"> 👀 Um pouco sobre mim... </h2>
 
 ⌨ Desenvolvedor Back-end em Desenvolvimento Web. <br>
 📚 Aprendendo e desenvolvendo com NestJs, React Native e PostgresSQL. <br>
@@ -18,8 +19,7 @@
 
 <br>
 
-
- ## Tecnologias, Habilidades e Competências 💻
+ <h2 align="center"> Tecnologias, Habilidades e Competências 💻</h2>
 
 <div>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -72,9 +72,9 @@
 
  </div>
  
- <h1 align="center">Comunique-se comigo 📬</h1>
+ <h2 align="center">Comunique-se comigo 📬</h2>
  
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/victorsantuccii/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  />
   </a>
