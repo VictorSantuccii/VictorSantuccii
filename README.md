@@ -72,7 +72,7 @@
 
  </div>
  
- ## Comunique-se comigo 📬
+ <h1 align="center">Comunique-se comigo 📬</h1>
  
 <div align="left">
   <a href="https://www.instagram.com/victorsantuccii/" target="_blank">
