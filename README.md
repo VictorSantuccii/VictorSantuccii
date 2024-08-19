@@ -1,6 +1,8 @@
 
  <h2 align="center"> Olá 👋 </h2>
- Meu nome é Víctor Santucci, atualmente estou cursando ADS ( Análise e Desenvolvimento de Sistemas ) no SENAI - SP 
+ <div align="center">
+ Meu nome é Víctor Santucci, atualmente estou cursando ADS ( Análise e Desenvolvimento de Sistemas ) no SENAI - SP. Sou uma pessoa bem colaborativa em qualquer situação e sempre mantenho minha proatividade, afinal, sou apaixonado pelo que faço.
+  </div>
  <br>
  
 
