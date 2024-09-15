@@ -2,6 +2,14 @@
     <img src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" alt="Hello, World!" width="600px">
 </div>
 
+<div align="center">
+   <img src="./line.gif" alt="linha"/>
+</div><br>
+
+<div align="center">
+    <img src="./sobre.png" alt="Sobre Mim" width="500px">
+</div><br>
+
  <h2 align="center"> Olá 👋 </h2>
  <div align="center">
  Meu nome é Víctor Santucci, atualmente estou cursando ADS ( Análise e Desenvolvimento de Sistemas ) no SENAI - SP. Sou uma pessoa bem colaborativa em qualquer situação e sempre mantenho minha proatividade, afinal, sou apaixonado pelo que faço.
