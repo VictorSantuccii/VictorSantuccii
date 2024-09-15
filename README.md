@@ -60,7 +60,7 @@
 </div><br><br>
 
   <div align="center">
-    <img src="./hardskill.png" alt="Habilidades" width="700px">
+    <img src="./hardskill.png" alt="Habilidades" width="600px">
 </div><br><br>
 
 <div align="center">
@@ -90,7 +90,7 @@
 
 
  <div align="center">
-    <img src="./falecomigo.png" alt="Fale comigo" width="700px">
+    <img src="./falecomigo.png" alt="Fale comigo" width="600px">
 </div><br><br>
 
  
