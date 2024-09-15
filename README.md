@@ -4,41 +4,64 @@
 
 <div align="center">
    <img src="./line.gif" alt="linha"/>
-</div><br>
+</div><br><br>
 
 <div align="center">
-    <img src="./sobre.png" alt="Sobre Mim" width="500px">
-</div><br>
+    <img src="./bemvindo.png" alt="Bem-vindo" width="500px">
+</div><br><br>
 
- <h2 align="center"> Olá 👋 </h2>
+
  <div align="center">
  Meu nome é Víctor Santucci, atualmente estou cursando ADS ( Análise e Desenvolvimento de Sistemas ) no SENAI - SP. Sou uma pessoa bem colaborativa em qualquer situação e sempre mantenho minha proatividade, afinal, sou apaixonado pelo que faço.
   </div>
- <br>
+ <br><br>
+
+ <div align="center">
+   <img src="./line.gif" alt="linha"/>
+</div><br><br>
  
 
 
- <h2 align="center"> 👀 Um pouco sobre mim... </h2>
+ <div align="center">
+    <img src="./sobremim.png" alt="Sobre Mim" width="500px">
+</div><br><br>
 
+
+<div align="center">
 ⌨ Desenvolvedor Back-end em Desenvolvimento Web. <br>
 📚 Aprendendo e desenvolvendo com NestJs, React Native e PostgresSQL. <br>
 💬 Me pergunte sobre HTML5, CSS3 e Javascript. <br>
 📩 Você pode me contactar no meu e-mail: victorsantuccii@gmail.com
-<br>
+
+</div> <br><br>
+
+<div align="center">
+   <img src="./line.gif" alt="linha"/>
+</div><br><br>
 
 
- <h2 align="center"> Minhas contribuições com o GitHub 📈 </h2>
+ <div align="center">
+    <img src="./analytics.png" alt="Análise de Commits" width="700px">
+</div><br><br>
 
 
-![](https://github-readme-stats.vercel.app/api?username=VictorSantuccii&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=VictorSantuccii&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantuccii&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+    <a href="https://github.com/VictorSantuccii">
+        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=VictorSantuccii&show_icons=true&border_radius=12&border_color=EAFF17&icon_color=EAFF17&bg_color=0D1117&title_color=ffff&text_color=A3A3A3&ring_color=8844EE&card_width=437" alt="GitHub Stats">
+    </a>
+    <a href="https://github.com/VictorSantuccii">
+        <img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=VictorSantuccii&border_radius=12&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=497&background=0D1117&ring=8844EE&fire=EAFF17&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=A3A3A3&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&stroke=EAFF17&border=EAFF17&card_width=437" alt="GitHub Streak Stats">
+    </a>
+    
+</div> <br><br>
 
+<div align="center">
+   <img src="./line.gif" alt="linha"/>
+</div><br><br>
 
-
-<br>
-
- <h2 align="center"> Tecnologias, Habilidades e Competências 💻</h2>
+  <div align="center">
+    <img src="./hardskill.png" alt="Análise de Commits" width="700px">
+</div><br><br>
 
 <div align="center">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
