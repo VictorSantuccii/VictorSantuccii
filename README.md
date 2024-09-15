@@ -60,7 +60,7 @@
 </div><br><br>
 
   <div align="center">
-    <img src="./hardskill.png" alt="Análise de Commits" width="700px">
+    <img src="./hardskill.png" alt="Habilidades" width="700px">
 </div><br><br>
 
 <div align="center">
@@ -71,25 +71,30 @@
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-
- 
  <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
-
-
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-
  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
  <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white">
  <img src="https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=TypeORM&logoColor=white">
 
  
- 
+ </div><br><br>
  
 
- </div>
+ <div align="center">
+   <img src="./line.gif" alt="linha"/>
+</div><br><br>
+
+
+
+
+ <div align="center">
+    <img src="./falecomigo.png" alt="Fale comigo" width="700px">
+</div><br><br>
+
  
- <h2 align="center">Comunique-se comigo 📬</h2>
+
  
 <div align="center">
   <a href="https://www.instagram.com/victorsantuccii/" target="_blank">
