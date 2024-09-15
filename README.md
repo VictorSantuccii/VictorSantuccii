@@ -23,7 +23,7 @@
 
 
  <div align="center">
-    <img src="./sobremim.png" alt="Sobre Mim" width="500px">
+    <img src="./sobremim.png" alt="Sobre Mim" width="450px">
 </div><br><br>
 
 
@@ -60,7 +60,7 @@
 </div><br><br>
 
   <div align="center">
-    <img src="./hardskill.png" alt="Habilidades" width="500px">
+    <img src="./hardskill.png" alt="Habilidades" width="450px">
 </div><br><br>
 
 <div align="center">
@@ -90,7 +90,7 @@
 
 
  <div align="center">
-    <img src="./falecomigo.png" alt="Fale comigo" width="500px">
+    <img src="./falecomigo.png" alt="Fale comigo" width="450px">
 </div><br><br>
 
  
