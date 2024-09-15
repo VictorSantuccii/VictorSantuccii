@@ -41,7 +41,7 @@
 
 
  <div align="center">
-    <img src="./analytics.png" alt="Análise de Commits" width="700px">
+    <img src="./analytics.png" alt="Análise de Commits" width="600px">
 </div><br><br>
 
 
@@ -60,7 +60,7 @@
 </div><br><br>
 
   <div align="center">
-    <img src="./hardskill.png" alt="Habilidades" width="600px">
+    <img src="./hardskill.png" alt="Habilidades" width="500px">
 </div><br><br>
 
 <div align="center">
@@ -90,7 +90,7 @@
 
 
  <div align="center">
-    <img src="./falecomigo.png" alt="Fale comigo" width="600px">
+    <img src="./falecomigo.png" alt="Fale comigo" width="500px">
 </div><br><br>
 
  
