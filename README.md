@@ -11,14 +11,13 @@
 </div><br><br>
 
 
- <div align="center">
+ <div align="justify">
  Meu nome é Víctor Santucci, atualmente estou cursando ADS ( Análise e Desenvolvimento de Sistemas ) no SENAI - SP. Sou uma pessoa bem colaborativa em qualquer situação e sempre mantenho minha proatividade, afinal, sou apaixonado pelo que faço.
+ Sou um desenvolvedor com proficiência em diversas tecnologias modernas de desenvolvimento web, sempre aprimorando tanto minhas habilidades como meu conhecimento. Tenho experiência sólida em JavaScript e TypeScript, com um foco especial em construir aplicações robustas e asseguráveis.
   </div>
- <br><br>
+ <br><br><br>
 
- <div align="center">
-   <img src="./line.gif" alt="linha"/>
-</div><br><br>
+ 
  
 
 
@@ -28,10 +27,19 @@
 
 
 <div align="center">
-⌨ Desenvolvedor Back-end em Desenvolvimento Web. <br>
-📚 Aprendendo e desenvolvendo com NestJs, React Native e PostgresSQL. <br>
-💬 Me pergunte sobre HTML5, CSS3 e Javascript. <br>
-📩 Você pode me contactar no meu e-mail: victorsantuccii@gmail.com
+👨‍💻  Sou desenvolvedor back-end com foco em desenvolvimento web. Tenho experiência em JavaScript, Node.js e TypeScript, e atualmente estou aprendendo NestJS, React Native e PostgreSQL.
+<br><br>
+Alguma das minhs habilidades: <br> <br>
+Back-end: JavaScript, Node.js, TypeScript ⚙️ <br>
+APIs: Express, Fastify 🌐 <br>
+ORMs: Sequelize, TypeORM, Prisma 📊 <br> 
+Banco de Dados: PostgreSQL, MySQL 🗄️ <br> <br>
+
+
+Contato
+📩 E-mail: victorsantuccii@gmail.com <br>
+
+Vamos conectar e explorar novas oportunidades! 🚀
 
 </div> <br><br>
 
@@ -53,11 +61,9 @@
         <img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=VictorSantuccii&border_radius=12&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=497&background=0D1117&ring=8844EE&fire=EAFF17&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=A3A3A3&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&stroke=EAFF17&border=EAFF17&card_width=437" alt="GitHub Streak Stats">
     </a>
     
-</div> <br><br>
+</div> <br><br><br>
 
-<div align="center">
-   <img src="./line.gif" alt="linha"/>
-</div><br><br>
+
 
   <div align="center">
     <img src="./hardskill.png" alt="Habilidades" width="450px">
