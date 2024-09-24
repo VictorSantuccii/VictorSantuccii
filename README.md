@@ -11,7 +11,7 @@
 </div><br><br>
 
 
- <div align="justify">
+ <div align="center">
  Meu nome é Víctor Santucci, atualmente estou cursando ADS ( Análise e Desenvolvimento de Sistemas ) no SENAI - SP. Sou uma pessoa bem colaborativa em qualquer situação e sempre mantenho minha proatividade, afinal, sou apaixonado pelo que faço.
  Sou um desenvolvedor com proficiência em diversas tecnologias modernas de desenvolvimento web, sempre aprimorando tanto minhas habilidades como meu conhecimento. Tenho experiência sólida em JavaScript e TypeScript, com um foco especial em construir aplicações robustas e asseguráveis.
   </div>
@@ -28,16 +28,16 @@
 
 <div align="center">
 👨‍💻  Sou desenvolvedor back-end com foco em desenvolvimento web. Tenho experiência em JavaScript, Node.js e TypeScript, e atualmente estou aprendendo NestJS, React Native e PostgreSQL.
-<br><br>
+<br><br><br><br>
 Alguma das minhs habilidades: <br> <br>
 Back-end: JavaScript, Node.js, TypeScript ⚙️ <br>
 APIs: Express, Fastify 🌐 <br>
 ORMs: Sequelize, TypeORM, Prisma 📊 <br> 
-Banco de Dados: PostgreSQL, MySQL 🗄️ <br> <br>
+Banco de Dados: PostgreSQL, MySQL 🗄️ <br> <br> <br>
 
 
 Contato
-📩 E-mail: victorsantuccii@gmail.com <br>
+📩 E-mail: victorsantuccii@gmail.com <br><br>
 
 Vamos conectar e explorar novas oportunidades! 🚀
 
