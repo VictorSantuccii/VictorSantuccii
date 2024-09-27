@@ -58,7 +58,7 @@
     <a href="https://github.com/VictorSantuccii">
         <img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=VictorSantuccii&border_radius=12&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=497&background=0D1117&ring=8844EE&fire=EAFF17&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=A3A3A3&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&stroke=EAFF17&border=EAFF17&card_width=437" alt="GitHub Streak Stats">
     </a>
-</div> <br> 
+</div> <br> <br>
 
 ---
 <br>
