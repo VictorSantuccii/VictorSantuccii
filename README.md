@@ -38,7 +38,7 @@
         <li>Banco de Dados: <strong>PostgreSQL, MySQL</strong> 🗄️</li>
         <li>Ferramentas: <strong>Docker, Postman</strong> 🛠️</li>
         <li>Testes: <strong>Jest, Supertest</strong> 🧪</li>
-        <li>Versionamento de Código: <strong>Git, GitHub</strong> 🧑‍💻</li>
+        <li>Versionamento de Código: <strong>Git, GitHub, GitLab</strong> 🧑‍💻</li>
     </ul>
 </div>
 <br>
