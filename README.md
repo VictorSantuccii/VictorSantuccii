@@ -10,48 +10,37 @@
     <img src="./bemvindo.png" alt="Bem-vindo" width="500px">
 </div><br><br>
 
+<div align="center">
+    Meu nome é Víctor Santucci, atualmente estou cursando ADS (Análise e Desenvolvimento de Sistemas) no SENAI - SP. Sou uma pessoa colaborativa e sempre proativa, apaixonado pelo que faço.
+    Sou um desenvolvedor com proficiência em diversas tecnologias modernas de desenvolvimento web. Tenho sólida experiência em JavaScript e TypeScript, com foco em construir aplicações robustas e escaláveis.
+</div><br><br><br><br>
 
- <div align="center">
- Meu nome é Víctor Santucci, atualmente estou cursando ADS ( Análise e Desenvolvimento de Sistemas ) no SENAI - SP. Sou uma pessoa bem colaborativa em qualquer situação e sempre mantenho minha proatividade, afinal, sou apaixonado pelo que faço.
- Sou um desenvolvedor com proficiência em diversas tecnologias modernas de desenvolvimento web, sempre aprimorando tanto minhas habilidades como meu conhecimento. Tenho experiência sólida em JavaScript e TypeScript, com um foco especial em construir aplicações robustas e asseguráveis.
-  </div>
- <br><br><br><br>
-
- 
- 
-
-
- <div align="center">
+<div align="center">
     <img src="./sobremim.png" alt="Sobre Mim" width="450px">
 </div><br>
 
-
 <div align="center">
-👨‍💻  Sou desenvolvedor back-end com foco em desenvolvimento web. Tenho experiência em JavaScript, Node.js e TypeScript, e atualmente estou aprendendo NestJS, React Native e PostgreSQL.
+👨‍💻  Sou desenvolvedor back-end com foco em desenvolvimento web. Tenho experiência em JavaScript, Node.js e TypeScript. Atualmente, estou aprendendo NestJS, React Native e PostgreSQL.
 <br><br><br>
-Alguma das minhs habilidades: <br> <br> <br>
+Algumas das minhas habilidades:
+<br><br>
 Back-end: JavaScript, Node.js, TypeScript ⚙️ <br>
 APIs: Express, Fastify 🌐 <br>
 ORMs: Sequelize, TypeORM, Prisma 📊 <br> 
-Banco de Dados: PostgreSQL, MySQL 🗄️ <br> <br> <br>
-
-
-Contato
+Banco de Dados: PostgreSQL, MySQL 🗄️
+<br><br><br>
 📩 E-mail: victorsantuccii@gmail.com <br><br>
 
-Vamos conectar e explorar novas oportunidades! 🚀
-
+Vamos nos conectar e explorar novas oportunidades! 🚀
 </div> <br><br>
 
 <div align="center">
    <img src="./line.gif" alt="linha"/>
 </div><br><br>
 
-
- <div align="center">
+<div align="center">
     <img src="./analytics.png" alt="Análise de Commits" width="600px">
 </div><br><br>
-
 
 <div align="center">
     <a href="https://github.com/VictorSantuccii">
@@ -60,12 +49,9 @@ Vamos conectar e explorar novas oportunidades! 🚀
     <a href="https://github.com/VictorSantuccii">
         <img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=VictorSantuccii&border_radius=12&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=497&background=0D1117&ring=8844EE&fire=EAFF17&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=A3A3A3&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&stroke=EAFF17&border=EAFF17&card_width=437" alt="GitHub Streak Stats">
     </a>
-    
 </div> <br><br><br>
 
-
-
-  <div align="center">
+<div align="center">
     <img src="./hardskill.png" alt="Habilidades" width="450px">
 </div><br><br>
 
@@ -83,37 +69,29 @@ Vamos conectar e explorar novas oportunidades! 🚀
  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
  <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white">
  <img src="https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=TypeORM&logoColor=white">
+</div><br><br>
 
- 
- </div><br><br>
- 
-
- <div align="center">
+<div align="center">
    <img src="./line.gif" alt="linha"/>
 </div><br><br>
 
-
-
-
- <div align="center">
+<div align="center">
     <img src="./falecomigo.png" alt="Fale comigo" width="450px">
 </div><br><br>
 
- 
-
- 
 <div align="center">
   <a href="https://www.instagram.com/victorsantuccii/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKHQcfQfZhPkfscCTkvDdqSGKrzzQVcnSKTgtxFhpQDmqMGbCzFGsPtGctbMLtRWmFmDxMg" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />
+  <a href="mailto:victorsantuccii@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- <a href="https://www.linkedin.com/in/victorsantuccii/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  <a href="https://www.linkedin.com/in/victorsantuccii/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div> <br><br>
+</div><br><br>
 
-
-
+<div align="center">
+  💼 Desenvolvedor por trás da API: <a href="https://github.com/TypeBlast/projectApi" target="_blank">projectApi</a> 💻
+</div><br><br>
 
