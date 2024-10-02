@@ -16,7 +16,7 @@
 
 
 <div align="center">
-    <p>👋 Olá! Meu nome é Víctor Santucci, estudante de Análise e Desenvolvimento de Sistemas no SENAI-SP, e sou apaixonado por tecnologia e programação! Como desenvolvedor back-end, me dedico à construção de soluções eficientes e escaláveis. Adoro colaborar em projetos desafiadores e sempre estou em busca de aprimorar minhas habilidades.</p>
+    <p>👋 Olá! Meu nome é Víctor Santucci, estudante de Análise e Desenvolvimento de Sistemas no SENAI-SP, e sou apaixonado por tecnologia e programação! Como desenvolvedor Full Stack, me dedico à construção de soluções eficientes e escaláveis. Adoro colaborar em projetos desafiadores e sempre estou em busca de aprimorar minhas habilidades.</p>
     <p>✨ Além disso, tenho experiência com uma variedade de tecnologias, incluindo JavaScript, Node.js, TypeScript e PostgreSQL. Estou constantemente evoluindo e aprendendo novas ferramentas e frameworks para criar aplicações mais robustas e modernas.</p>
 </div> <br>
 
