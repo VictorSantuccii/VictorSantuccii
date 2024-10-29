@@ -32,7 +32,7 @@
 
 <div align="center">
     <ul>
-        <li>Front-end: <strong>React, React Native, Vite</strong> 🎨</li>
+        <li>Front-end: <strong>React, React Native, Next, Vite</strong> 🎨</li>
         <li>Back-end: <strong>JavaScript, Node.js, TypeScript</strong> ⚙️</li>
         <li>APIs: <strong>Express, Fastify</strong> 🌐</li>
         <li>ORMs: <strong>Sequelize, TypeORM, Prisma</strong> 📊</li>
