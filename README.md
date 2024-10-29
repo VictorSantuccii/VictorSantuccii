@@ -36,7 +36,7 @@
         <li>Back-end: <strong>JavaScript, Node.js, TypeScript</strong> ⚙️</li>
         <li>APIs: <strong>Express, Fastify</strong> 🌐</li>
         <li>ORMs: <strong>Sequelize, TypeORM, Prisma</strong> 📊</li>
-        <li>Banco de Dados: <strong>PostgreSQL, MySQL</strong> 🗄️</li>
+        <li>Banco de Dados: <strong>PostgreSQL, MySQL, MongoDB</strong> 🗄️</li>
         <li>Ferramentas: <strong>Docker, Postman</strong> 🛠️</li>
         <li>Testes: <strong>Jest, Supertest</strong> 🧪</li>
         <li>Versionamento de Código: <strong>Git, GitHub, GitLab</strong> 🧑‍💻</li>
