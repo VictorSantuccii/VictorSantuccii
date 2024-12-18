@@ -56,9 +56,6 @@
     <a href="https://github.com/VictorSantuccii">
         <img width="400px" src="https://github-readme-stats.vercel.app/api?username=VictorSantuccii&show_icons=true&border_radius=12&border_color=EAFF17&icon_color=EAFF17&bg_color=0D1117&title_color=ffff&text_color=A3A3A3&ring_color=8844EE&card_width=437" alt="GitHub Stats">
     </a>
-    <a href="https://github.com/VictorSantuccii">
-        <img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=VictorSantuccii&border_radius=12&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=497&background=0D1117&ring=8844EE&fire=EAFF17&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=A3A3A3&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&stroke=EAFF17&border=EAFF17&card_width=437" alt="GitHub Streak Stats">
-    </a>
 </div> <br> <br>
 
 ---
