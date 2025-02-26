@@ -13,8 +13,6 @@
 
 <br>
 
-
-
 <div align="center">
     <p>👋 Olá! Meu nome é Víctor Santucci, estudante de Engenharia de Software na UNIFACEF, e sou apaixonado por tecnologia e programação! Como desenvolvedor Full Stack, me dedico à construção de soluções eficientes. Adoro colaborar em projetos que possam sempre me desafiar, em busca de aprimorar minhas habilidades e também expandir meu conhecimento.</p>
     <p>✨ Além disso, tenho experiência com uma variedade de tecnologias modernas do mercado, incluindo JavaScript, Node.js, TypeScript e PostgreSQL. Estou constantemente trabalhando para minha evolução como profissional, aprendendo e revisando estudos com novas ferramentas e frameworks para criar aplicações cada vez melhores.</p>
@@ -58,8 +56,19 @@
     </a>
 </div> <br> <br>
 
----
+<div align="center">
+    <a href="https://github.com/VictorSantuccii">
+        <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantuccii&layout=compact&border_radius=12&border_color=EAFF17&icon_color=EAFF17&bg_color=0D1117&title_color=ffff&text_color=A3A3A3&ring_color=8844EE&card_width=437" alt="Top Languages">
+    </a>
+</div> 
+<br> 
 <br>
+
+
+---
+
+<br>
+
 <div align="center">
 <img src="./hardskill.png" alt="Habilidades Técnicas" width="520px">
 <div> <br> 
