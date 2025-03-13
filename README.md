@@ -33,7 +33,7 @@
         <li>Front-end: <strong>React, React Native, Next e Vite</strong> 🎨</li>
         <li>Back-end: <strong>JavaScript, Node.js, TypeScript</strong> ⚙️</li>
         <li>APIs: <strong>Express, Fastify, NestJS</strong> 🌐</li>
-        <li>ORMs: <strong>Sequelize, TypeORM, Prisma, Drizzle</strong> 📊</li>
+        <li>ORMs: <strong>Sequelize, TypeORM, Prisma</strong> 📊</li>
         <li>Banco de Dados: <strong>PostgreSQL, MySQL, MongoDB</strong> 🗄️</li>
         <li>Ferramentas: <strong>Docker, Postman</strong> 🛠️</li>
         <li>Testes: <strong>Jest</strong> 🧪</li>
