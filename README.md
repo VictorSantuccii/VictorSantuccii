@@ -20,29 +20,7 @@
 
 ---
 
-<div align="center">
-    <img src="./sobremim.png" alt="Sobre Mim" width="450px">
-</div>
 
-<div align="center">
-    <h3>🚀 Minhas habilidades incluem:</h3>
-</div>
-
-<div align="center">
-    <ul>
-        <li>Front-end: <strong>React, React Native, Next e Vite</strong> 🎨</li>
-        <li>Back-end: <strong>JavaScript, Node.js, TypeScript</strong> ⚙️</li>
-        <li>APIs: <strong>Express, Fastify, NestJS</strong> 🌐</li>
-        <li>ORMs: <strong>Sequelize, TypeORM, Prisma</strong> 📊</li>
-        <li>Banco de Dados: <strong>PostgreSQL, MySQL, MongoDB</strong> 🗄️</li>
-        <li>Ferramentas: <strong>Docker, Postman</strong> 🛠️</li>
-        <li>Testes: <strong>Jest</strong> 🧪</li>
-        <li>Versionamento de Código: <strong>Git, GitHub, GitLab</strong> 🧑‍💻</li>
-    </ul>
-</div>
-<br>
-
----
 <br> 
 
 <div align="center">
