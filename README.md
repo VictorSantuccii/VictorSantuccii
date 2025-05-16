@@ -1,55 +1,46 @@
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" alt="Hello, World!" width="600px">
-</div>
+<h1 align="center" style="font-size: 3em; color: #EAFF17; text-shadow: 0 0 15px #EAFF17; transform: perspective(500px) rotateX(5deg);">
+    👋 Olá, Mundo!
+</h1>
 
-<div align="center">
-    <img src="./line.gif" alt="linha"/>
-</div>
-<br>
 
-<div align="center">
-    <img src="./bemvindo.png" alt="Bem-vindo" width="500px">
-</div>
+
+
 
 <br>
 
 <div align="center">
-    <p>👋 Olá! Meu nome é Víctor Santucci, estudante de Engenharia de Software na UNIFACEF, e sou apaixonado por tecnologia e programação! Como desenvolvedor Full Stack, me dedico à construção de soluções eficientes. Adoro colaborar em projetos que possam sempre me desafiar, em busca de aprimorar minhas habilidades e também expandir meu conhecimento.</p>
-    <p>✨ Além disso, tenho experiência com uma variedade de tecnologias modernas do mercado, incluindo JavaScript, Node.js, TypeScript, SQL e NoSQL, tanto para área do front-end como do back-end. Estou constantemente trabalhando para minha evolução como profissional, aprendendo e revisando estudos com novas ferramentas e frameworks para criar aplicações cada vez melhores.</p>
-</div> <br>
+    <p> Meu nome é <strong>Víctor Santucci</strong>, estudante de Engenharia de Software na UNIFACEF, e sou apaixonado por tecnologia e programação!</p>
+    <p>Como desenvolvedor Full Stack, me dedico à construção de soluções eficientes e adoro projetos desafiadores que aprimoram minhas habilidades.</p>
+    <p>✨ Trabalho com tecnologias modernas como <strong>JavaScript, Node.js, TypeScript, SQL, NoSQL</strong> e muito mais, sempre buscando evoluir profissionalmente.</p>
+</div>
 
----
+<br>
+<br>
 
 
-<br> 
+<h2 align="center" style="font-size: 2.5em; color: #FFDD57; text-shadow: 0 0 12px #FFDD57;">
+    📊 GitHub Analytics
+</h2>
 
-<div align="center">
-<img src="./analytics.png" alt="Github Analytics" width="630px">
-<div> <br>
-
-    
 <div align="center">
     <a href="https://github.com/VictorSantuccii">
         <img width="400px" src="https://github-readme-stats.vercel.app/api?username=VictorSantuccii&show_icons=true&border_radius=12&border_color=EAFF17&icon_color=EAFF17&bg_color=0D1117&title_color=ffff&text_color=A3A3A3&ring_color=8844EE&card_width=437" alt="GitHub Stats">
     </a>
-</div> <br> <br>
-
+</div>
+<br>
 <div align="center">
     <a href="https://github.com/VictorSantuccii">
         <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantuccii&layout=compact&border_radius=12&border_color=EAFF17&icon_color=EAFF17&bg_color=0D1117&title_color=ffff&text_color=A3A3A3&ring_color=8844EE&card_width=437" alt="Top Languages">
     </a>
-</div> 
-<br> 
-<br>
+</div>
 
-
----
 
 <br>
+<br>
 
-<div align="center">
-<img src="./hardskill.png" alt="Habilidades Técnicas" width="520px">
-<div> <br> 
+<h2 align="center" style="font-size: 2.5em; color: #00FF88; text-shadow: 0 0 10px #00FF88;">
+    💻 Habilidades Técnicas
+</h2>
 
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -67,19 +58,15 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
     <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-    
 </div>
 
 <br>
-
----
-
 <br>
 
-<div align="center">
-<img src="./falecomigo.png" alt="Fale comigo" width="500px">
-<div> <br> 
 
+<h2 align="center" style="font-size: 2.5em; color: #FF61C6; text-shadow: 0 0 10px #FF61C6;">
+    📫 Fale comigo
+</h2>
 
 <div align="center">
     <a href="https://www.instagram.com/victorsantuccii/" target="_blank">
@@ -92,6 +79,5 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </div>
-<br>
 
----
+
