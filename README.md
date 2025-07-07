@@ -11,7 +11,8 @@
 <div align="center">
     <p> Meu nome é Víctor Santucci, estudante de Engenharia de Software na UNIFACEF,  apaixonado desde sempre por tecnologia e programação.</p>
     <p>Como desenvolvedor Full Stack, me dedico à construção de soluções eficientes e adoro projetos desafiadores que aprimoram minhas habilidades, sempre priorizando a experiência do usuário com o front-end e o back-end unificados.</p>
-    <p> Desenvolvo com tecnologias modernas como JavaScript, Node.js, TypeScript, SQL, NoSQL e muito mais, sempre buscando evoluir profissionalmente, aprimorando os meus conhecimentos na área para me tornar cada dia mais um profissional melhor e mais requisitado.</p>
+    <p> Desenvolvo com tecnologias modernas como JavaScript, Node.js, TypeScript, SQL, NoSQL e muito mais, sempre buscando evoluir profissionalmente, aprimorando os meus conhecimentos na área para me tornar cada dia mais um profissional melhor e mais requisitado. Ultimamente tenho estudado Python e sua sintaxe, além de evoluir constantemente tudo aquilo que já tenho base.</p>
+</div>
 </div>
 
 <br>
