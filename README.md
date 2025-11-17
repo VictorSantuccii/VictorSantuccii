@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 3em; color: #EAFF17; text-shadow: 0 0 15px #EAFF17; transform: perspective(500px) rotateX(5deg);">
-    👋 Olá, Mundo!
+    👨🏻‍💻 Olá, Mundo!
 </h1>
 
 
@@ -11,7 +11,7 @@
 <div align="center">
     <p> Meu nome é Víctor Santucci, estudante de Engenharia de Software na UNIFACEF,  apaixonado desde sempre por tecnologia e programação.</p>
     <p>Como desenvolvedor Full Stack, me dedico à construção de soluções eficientes e adoro projetos desafiadores que aprimoram minhas habilidades, sempre priorizando a experiência do usuário com o front-end e o back-end unificados.</p>
-    <p> Desenvolvo com tecnologias modernas como JavaScript, Node.js, TypeScript, SQL, NoSQL e muito mais, sempre buscando evoluir profissionalmente, aprimorando os meus conhecimentos na área para me tornar cada dia mais um profissional melhor e mais requisitado. Ultimamente tenho estudado Python e sua sintaxe, além de evoluir constantemente tudo aquilo que já tenho base.</p>
+    <p> Desenvolvo com tecnologias modernas e ágeis, linguagens e frameworks robustos como JavaScript, Node.js, TypeScript, Python, SQL e NoSQL, Firebase, Supabase e muito mais, sempre buscando evoluir profissionalmente, aprimorando os meus conhecimentos na área para me tornar cada dia mais um profissional melhor e mais requisitado. Ultimamente tenho estudado sobre GraphQL, além de evoluir constantemente tudo aquilo que já tenho base.</p>
 </div>
 </div>
 
