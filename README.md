@@ -15,26 +15,6 @@
 </div>
 </div>
 
-<br>
-<br>
-
-
-<h2 align="center" style="font-size: 2.5em; color: #FFDD57; text-shadow: 0 0 12px #FFDD57;">
-    📊 GitHub Analytics
-</h2>
-
-<div align="center">
-    <a href="https://github.com/VictorSantuccii">
-        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=VictorSantuccii&show_icons=true&border_radius=12&border_color=EAFF17&icon_color=EAFF17&bg_color=0D1117&title_color=ffff&text_color=A3A3A3&ring_color=8844EE&card_width=437" alt="GitHub Stats">
-    </a>
-</div>
-<br>
-<div align="center">
-    <a href="https://github.com/VictorSantuccii">
-        <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantuccii&layout=compact&border_radius=12&border_color=EAFF17&icon_color=EAFF17&bg_color=0D1117&title_color=ffff&text_color=A3A3A3&ring_color=8844EE&card_width=437" alt="Top Languages">
-    </a>
-</div>
-
 
 <br>
 <br>
